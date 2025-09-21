@@ -1,0 +1,19 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary/backup files
+*.pbix.tmp
+*.tmp
+*.bak
+*.cache
+
+# Logs
+*.log
+
+# VS Code / IDE settings (if any)
+.vscode/
+.idea/
+
+# Environment / config files (if added accidentally)
+*.env
